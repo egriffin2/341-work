@@ -1,0 +1,7 @@
+# Emily Griffin 50
+## Week 3/4 - Browsers, First Live Web Page
+- I was lucky to have no big issues this week in terms of the work I was doing.  Any little hiccups I encountered were things I could solve quickly just by messing around with things a little bit, and they were all small things; forgetting a forward slash, using the wrong tag, etc.  All of my issues had quick, easy solutions.
+- The only real "problem" I had was with actually creating my new index.html file, since I do still fight with Terminal a little bit.  When following the steps in the photos provided on the course website, I was missing something that was causing Terminal to not respond in the expected manner, so I ended up just creating a new index file using TextEdit, which worked out just fine.
+- When I first pasted the poem I used into my index file, it went in as a large block of text.  All this took was a quick google search on how to create a paragraph break.  I ended up on <a href="https://www.w3schools.com/html/html_elements.asp">this
+site</a href>, which has been helpful for a lot of small things.
+- One thing that I learned this week that really cleared some things up was the actual difference between elements and tags.  When I learned some (minimal) HTML in high school, I never really understood the difference between an element within a document and something that was just a tag.  Showing elements as chunks or objects within the document and tags as details or qualities of certain parts helped clear that up.
