@@ -7,9 +7,9 @@ Work on the assignment went smoothly as usual, with only the occasional hiccup c
 
 ![dropdown](https://github.com/egriffin2/341-work/blob/master/HW-5/img/dropdown.png)
 I quickly realized that I had forgotten to put actual text values in for these options, which is why they weren't showing up.
-![check2]
+![check2](https://github.com/egriffin2/341-work/blob/master/HW-5/img/check2.png)
 
 Another problem I had was that originally, I used checkboxes where I should've used a radio input.
-![checkbox2]
+![checkbox2](https://github.com/egriffin2/341-work/blob/master/HW-5/img/checkbox2.png)
 I was kind of concerned when I realized that they could both be checked at once, so I went back and re-read some thing.  This of course, allowed me to fix the problem right away.
-![radio]
+![radio](https://github.com/egriffin2/341-work/blob/master/HW-5/img/radio.png)
