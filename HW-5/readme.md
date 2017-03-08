@@ -4,6 +4,7 @@
 When I started reading through the material for this week and looking at the form examples (specifically the username and password ones), the first thing that came to mind was the <a href = "https://www.youtube.com/watch?v=jQ7DBG3ISRY">Password Rant </a href> video by Tobuscus, which is what gave me the idea to make The Human Test. As ridiculous as that sounds, that really is how I got my idea for this week's page.
 
 Work on the assignment went smoothly as usual, with only the occasional hiccup caused by my oversight of small things, which were easily fixed.  For example, when creating my dropdown menu, I forgot to include actual text values, so it ended up looking like this.
+
 ![dropdown](https://github.com/egriffin2/341-work/blob/master/HW-5/img/dropdown.png)
 I quickly realized that I had forgotten to put actual text values in for these options, which is why they weren't showing up.
 ![check2]
