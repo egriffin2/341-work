@@ -13,3 +13,5 @@ Another problem I had was that originally, I used checkboxes where I should've u
 ![checkbox2](https://github.com/egriffin2/341-work/blob/master/HW-5/img/checkbox2.png)
 I was kind of concerned when I realized that they could both be checked at once, so I went back and re-read some thing.  This of course, allowed me to fix the problem right away.
 ![radio](https://github.com/egriffin2/341-work/blob/master/HW-5/img/radio.png)
+
+Other than that I'm not really sure what to say about the whole project. I really enjoyed it, and everything is making pretty good sense to me. I learned a lot about organization in this assignment.  The fieldset tag really helped to set everything into specific categories, so the site was easy to navigate both in the code itself and in the browser. I'm not really sure what else to elaborate on in this Readme, since this was really all the issues I had with the project.
