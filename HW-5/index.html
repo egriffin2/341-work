@@ -13,7 +13,7 @@
     <h3>Let's find out...</h3>
     <label>Name:</label>
       <form action = "#">
-        <input type = "text" name = "name" id = "name" placeholder = "Identify Yourself" autofocus>
+        <input type = "text" name = "name" id = "name" placeholder = "Identify Yourself" autofocus required>
       </form>
       <br>
       <fieldset>
@@ -43,18 +43,22 @@
            <input type="checkbox" name="features" value="hair"> hair <br>
            <input type="checkbox" name="features" value="fingernails"> fingernails <br>
            <input type="checkbox" name="features" value="toes"> toes <br>
-      </fieldset>
+      </fieldset><br>
       <fieldset>
         <label>Are you completing this survey with your hands, as opposed to paws, claws, or hooves?</label>
         <input type="radio" name="Y/N" value="Yes"> Yes
         <input type="radio" name="Y/N" value="No"> No <br>
-      </fieldset>
+      </fieldset><br>
+      <fieldset>
+        <label>Lastly, please include any additional comments that you feel would help us accurately determine whether or not you are actually a human being.</label>
+        <textarea name="Comments" cols="20" rows="4" style="min-width:50%" placeholder="Convince us that you should pass the human test."></textarea>
+      </fieldset><br>
 
       <fieldset>
         <p>Want to see more ridiculous stuff?  Check this out!</p>
         <a href = "http://www.boredbutton.com"><img src = "https://github.com/egriffin2/341-work/blob/master/HW-5/img/boredbutton.png" alt = "Bored Button" title = "Bored Button" width = "100" height = "100"></a href>
-
-
+      </fieldset><br>
+        <input type="image" src="submit.jpg" alt="Submit Button" width="150" height="50">
     </fieldset>
   </body>
 </html>
