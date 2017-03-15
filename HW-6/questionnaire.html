@@ -8,41 +8,51 @@
     <title>Alien Invasion/Abduction Resource Site - Identification</title>
   </head>
   <body>
-      <h1>Tell Us About Your Experience</h1>
-        <label>Have you ever had an alien encounter before?</label>
-        <input type="radio" name="Y/N" value="Yes"> Yes
-        <input type="radio" name="Y/N" value="No"> No <br>
+      <div id = "page head">
+        <h1>Tell Us About Your Experience</h1>
+      </div>
+      <div>
+          <label>Have you ever had an alien encounter before?</label>
+          <input type="radio" name="Y/N" value="Yes"> Yes
+          <input type="radio" name="Y/N" value="No"> No <br>
+      </div>
+      <div id = "question1"
+          <br><label>How long ago did you first notice things that indicated to you
+            the presence of an extraterrestrial?</label>
+            <select name = "How Long?">
+                <option value = "1">1 Month</option>
+                <option value = "3">3 Months</option>
+                <option value = "5">5 Months</option>
+                <option value = "8">8 Months</option>
+                <option value = "Year">A Year</option>
+                <option value = "Year+">Over a Year</option>
+            </select><br>
+        </div>
+        <div id = "question2">
+          <br><label>Did the events taking place increase or decrease in duration,
+            frequency, or intensity after you became aware of the fact that
+            cause of the problem was extraterrestrials?</label>
+            <br><br>
+            <input type="radio" name="ID" value="Y/N"> Increase Duration
+            <input type="radio" name="IF" value="Y/N"> Increase Frequency
+            <input type="radio" name="II" value="Y/N"> Increase Intensity
+            <input type="radio" name="DD" value="Y/N"> Decrease Duration
+            <input type="radio" name="DF" value="Y/N"> Decrease Frequency
+            <input type="radio" name="DI" value="Y/N"> Decrease Intensity
+            <input type="radio" name="combination" value="Y/N"> Some combination of the above
+            <input type="radio" name="all" value="Y/N"> All of the Above
+        </div>
 
-        <br><label>How long ago did you first notice things that indicated to you
-          the presence of an extraterrestrial?</label>
-          <select name = "How Long?">
-            <option value = "1">1 Month</option>
-            <option value = "3">3 Months</option>
-            <option value = "5">5 Months</option>
-            <option value = "8">8 Months</option>
-            <option value = "Year">A Year</option>
-            <option value = "Year+">Over a Year</option>
-          </select><br>
-
-        <br><label>Did the events taking place increase or decrease in duration,
-          frequency, or intensity after you became aware of the fact that
-          cause of the problem was extraterrestrials?</label>
           <br><br>
-          <input type="radio" name="ID" value="Y/N"> Increase Duration
-          <input type="radio" name="IF" value="Y/N"> Increase Frequency
-          <input type="radio" name="II" value="Y/N"> Increase Intensity
-          <input type="radio" name="DD" value="Y/N"> Decrease Duration
-          <input type="radio" name="DF" value="Y/N"> Decrease Frequency
-          <input type="radio" name="DI" value="Y/N"> Decrease Intensity
-          <input type="radio" name="combination" value="Y/N"> Some combination of the above
-          <input type="radio" name="all" value="Y/N"> All of the Above
-
-        <br><br>
-        <label>If you chose "some combination of these" in the above question, please
-          elaborate.</label><br>
-          <textarea name="explanation" cols="20" rows="4" style="min-width:25%" required>
-</textarea><br>
-<img src = "./imgvid/obama.jpg" width = 50% height = 50%>
+        <div id = "explanation"
+          <label>If you chose "some combination of these" in the above question, please
+            elaborate.</label><br>
+            <textarea name="explanation" cols="20" rows="4" style="min-width:25%" required>
+            </textarea><br>
+        </div>
+        <div id = "obama image">
+            <img src = "./imgvid/obama.jpg" width = 50% height = 50%>
+        </div>
 
       </head>
   </body>
