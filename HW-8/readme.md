@@ -19,3 +19,4 @@ Font variant was something I liked including in my page because I thought it gav
 ![fontvariant](fontvariant.png)
 When I came to text indentations, I ended up grouping my text differently.  Originally I'd had one class for my paragraphs, but because I wanted to indent them separately, I ended up splitting them into different classes.
 ![indent](indent.png)
+I had a small issue with the pseudo elements to begin with because I misunderstood and tried to put them in with another element.  As soon as I took a second look at the pseudo element page on the course site, I was able to fix the problem.

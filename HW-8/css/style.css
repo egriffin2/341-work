@@ -26,6 +26,10 @@ p.text {
   text-indent: 1.5em;
 }
 
+p.text::first-letter {
+  color: #2BFFDB;
+}
+
 p.text2 {
   color: #ACB5FF;
   margin-top: 10px;
@@ -34,6 +38,10 @@ p.text2 {
   margin-right: 200px;
   text-align: center;
   text-indent: 1.5em;
+}
+
+p.text2::first-letter {
+  font-size: 2em;
 }
 
 body {
@@ -46,4 +54,12 @@ h3.webLink {
   font-size: 16pt;
   text-align: center;
   font-variant: small-caps;
+}
+
+h3.webLink:hover {
+  font-size: 4em;
+  color: #AFFF48;
+  background-color: #3F07A3;
+  letter-spacing: .5em;
+  text-align: right;
 }
