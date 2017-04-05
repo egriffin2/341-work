@@ -16,7 +16,7 @@ I chose dark blues for the color scheme of my page because I felt that they fit 
 To begin with, I had centered my text within my index file.  Later, while building the css file, I removed the center tag from the index and put it in the css file instead.
 
 Font variant was something I liked including in my page because I thought it gave a much more serious and interesting look to what I was creating.
-![fontvariant](fontvariant.png)
+![fontvariant](https://github.com/egriffin2/341-work/blob/master/HW-8/img/fontvariant.png)
 When I came to text indentations, I ended up grouping my text differently.  Originally I'd had one class for my paragraphs, but because I wanted to indent them separately, I ended up splitting them into different classes.
-![indent](indent.png)
+![indent](https://github.com/egriffin2/341-work/blob/master/HW-8/img/indent.png)
 I had a small issue with the pseudo elements to begin with because I misunderstood and tried to put them in with another element.  As soon as I took a second look at the pseudo element page on the course site, I was able to fix the problem.
