@@ -3,7 +3,7 @@
 <ul>
   <li>Firstly, the information I wanted to convey in this site is how a well-developed and designed site can impact who is visiting the site and how, for example, a business might be affected by how well-designed or poorly designed their website is.  The title and image in the page are meant to be the first things to catch the reader's eye in order to draw them in.
   <li>Layout Plan:
-  ![screenshot](img/sketch.png)
+  ![screenshot](egriffin2/341-work/HW-10/img/sketch.png)
   <li>As usual, this was tons of trial and error.  Positioning the boxes on the page was incredibly frustrating at first. Once I got that part worked out, the problem became creating space between them.  As always, my problems were easily fixed but time consuming.
   <li>Things started really messy and unorganized, but got slightly better as I went along.  One thing I was really pleased with was my dropdown menu, which made a lot more sense the second time around than it did the first.  I used the same code I did in Week 9's assignment to create it and then went back and changed it to fit this assignment and also went over the steps I took to get there.
   ![screenshot](img/site.png)
