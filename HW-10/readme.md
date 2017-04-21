@@ -6,7 +6,7 @@
   ![screenshot](https://github.com/egriffin2/341-work/blob/master/HW-10/img/sketch.png)
   <li>As usual, this was tons of trial and error.  Positioning the boxes on the page was incredibly frustrating at first. Once I got that part worked out, the problem became creating space between them.  As always, my problems were easily fixed but time consuming.
   <li>Things started really messy and unorganized, but got slightly better as I went along.  One thing I was really pleased with was my dropdown menu, which made a lot more sense the second time around than it did the first.  I used the same code I did in Week 9's assignment to create it and then went back and changed it to fit this assignment and also went over the steps I took to get there.
-  ![screenshot](https://github.com/egriffin2/341-work/blob/master/HW-10/img/site.png)
+  ![screenshot]("https://github.com/egriffin2/341-work/blob/master/HW-10/img/site.png")
   ![screenshot](https://github.com/egriffin2/341-work/blob/master/HW-10/img/site2.png)
   <li>I had a lot of trouble with the image I originally put in the layout, as getting it to sit where I wanted it on the page was extremely difficult.
   ![screenshot](https://github.com/egriffin2/341-work/blob/master/HW-10/img/site3.png)
