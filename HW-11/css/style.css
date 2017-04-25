@@ -1,58 +1,19 @@
-body {
-    padding: 0;
-    margin: 0;
-    background-image: url("img/dininghouse.jpg");
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-
-h1.heading {
-  text-align: center;
-  font-size: 7em;
+.my-element {
+    background-image: url("./img/turtle.jpg");
 }
 
 .container {
-    min-height: 50vh;
-    font-size: 2em;
-}
-
-}
-
-.description {
-    margin: 50vh auto;
-    padding: 1em;
+    background-image: url("./img/turtle.jpg");
+    background-repeat: round;
+    height: 700px;
     text-align: center;
-    width: 75%;
-    min-width: 300px;
-    background-image: url("img/dorms.jpg");
-
-
+    display: flex;
 }
 
-.turtles {
-    margin: 50vh auto;
-    padding: 1em;
-    text-align: center;
-    width: 75%;
-    min-width: 300px;
-    background-image: url("img/turtle.jpg");
-
+.container p {
+    margin: auto;
+    width: 80%;
+    min-width: 200px;
+    font-size: 18pt;
+    align-content: center;
 }
-
-.volunteer {
-    margin: 50vh auto;
-    padding: 1em;
-    text-align: center;
-    width: 75%;
-    min-width: 300px;
-    background-image: url("img/volunteer.jpg");
-
-}
-
-@media only screen and (max-width: 900px) {
-    .description, .turtles, .volunteer {
-        background-attachment: scroll;
-    }
