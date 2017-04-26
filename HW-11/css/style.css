@@ -1,11 +1,10 @@
-.my-element {
-    background-image: url("./img/turtle.jpg");
-}
-
 .container {
     background-image: url("./img/turtle.jpg");
-    background-repeat: round;
-    height: 700px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: #000;
+    height: 400px;
+    color: #fff;
     text-align: center;
     display: flex;
 }

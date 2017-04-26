@@ -7,3 +7,4 @@ I got was this.
 ![screen](img/screen.png)
 Things got so convoluted and messy at one point that I decided to go back and restart my CSS file just so that I coudl make sure I only had what I needed in it.  While going through the code examples in the lesson and trying to add in what I needed, I ended up with an extremely messy css file.  Once I did that, I started to get somewhere but my image would not show up at all.
 ![noimage](img/noimage.png)
+Even after I got the blocks of text separated out into different containers, no image would show up.  I tried this with multiple different image files and none of them would work.
