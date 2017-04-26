@@ -1,18 +1,33 @@
-.container {
-    background-image: url("./img/turtle.jpg");
-    background-repeat: no-repeat;
-    background-position: right bottom;
-    background-color: #000;
-    height: 400px;
-    color: #fff;
-    text-align: center;
-    display: flex;
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
-.container p {
-    margin: auto;
-    width: 80%;
-    min-width: 200px;
-    font-size: 18pt;
-    align-content: center;
+h1 {
+  text-align: center;
+  font-size: 575%;
+  color: #4A4444;
+  text-transform: uppercase;
+  letter-spacing: 1%;
+  margin: 45% 0;
 }
+
+p {
+  text-align: center;
+  font-size: 275%;
+  color: #E5E5E5;
+  text-transform: uppercase;
+  letter-spacing: 1%;
+}
+
+/* START PARALLAX /*/
+.parallax {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Florida_Box_Turtle_Digon3.jpg") repeat fixed 100%;
+}
+
+.parallax-inner {
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+/* END PARALLAX /*/
