@@ -5,25 +5,30 @@
 }
 
 h1 {
+  font-family: 'Ranga', cursive;
+  font-family: 'Eagle Lake', cursive;
   text-align: center;
   font-size: 575%;
-  color: #4A4444;
-  text-transform: uppercase;
+  color: #E5E5E5;
   letter-spacing: 1%;
   margin: 45% 0;
 }
 
 p {
+  font-family: 'Ranga', cursive;
   text-align: center;
   font-size: 275%;
   color: #E5E5E5;
   text-transform: uppercase;
   letter-spacing: 1%;
+  background-color: #003A;
+  background-blend-mode: soft-light;
 }
 
 /* START PARALLAX /*/
 .parallax {
   background: url("https://github.com/egriffin2/341-work/blob/master/HW-11/img/dorms.jpg?raw=true") repeat fixed 100%;
+  background-size: cover;
 }
 
 .parallax-inner {
@@ -31,12 +36,18 @@ p {
   padding-bottom: 10%;
 }
 
+.parallax1 {
+  background: url("https://github.com/egriffin2/341-work/blob/master/HW-11/img/dininghouse.jpg?raw=true") repeat fixed 100%;
+  background-size: cover;
+}
+
 .parallax2 {
   background: url("https://github.com/egriffin2/341-work/blob/master/HW-11/img/turtle.jpg?raw=true") repeat fixed 100%;
+  background-size: cover;
 }
 
 .parallax3 {
-  background: url("https://github.com/egriffin2/341-work/blob/master/HW-11/img/volunteer.jpeg?raw=true") repeat fixed 100%;
+  background: url("https://github.com/egriffin2/341-work/blob/master/HW-11/img/margo.jpg?raw=true") repeat fixed 100%;
   background-size: cover;
 }
 /* END PARALLAX /*/
