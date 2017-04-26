@@ -12,3 +12,4 @@ What finally helped was a <a href = "https://www.youtube.com/watch?v=on7p8oqfv80
 ![success](img/success.png)
 Once I put in the actual image that I planned on using, I discovered that it was tiled, which looks absolutely hideous.
 ![tile](img/tile.png)
+Once I fixed this, I made a few more small changes to make the page more visually pleasing and then was done with it.  I'm honestly amazed that I was able to get my images to show up at all.
